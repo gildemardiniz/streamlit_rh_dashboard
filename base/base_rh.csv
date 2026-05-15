@@ -1,0 +1,101 @@
+ID,Nome,Idade,Departamento,Cargo,Admissao,Status,Salario,Desempenho,Faltas,Satisfacao
+1,Gabriel Ferreira,29,RH,Analista,2021-03-12,Ativo,3500,8.5,2,9
+2,Lucas Santos,35,TI,Desenvolvedor,2020-07-03,Ativo,6000,7.8,5,7
+3,Mariana Oliveira,41,Financeiro,Gerente,2018-01-20,Ativo,9000,9.2,1,8
+4,Pedro Henrique,26,TI,Suporte,2022-09-10,Ativo,2800,6.5,8,6
+5,Beatriz Costa,31,Vendas,Executivo,2019-11-05,Inativo,5000,7.0,3,6
+6,Rafael Almeida,28,RH,Assistente,2023-02-18,Ativo,2500,8.0,2,8
+7,Bruno Ribeiro,45,Financeiro,Analista,2017-05-14,Ativo,5500,7.5,4,7
+8,Juliana Carvalho,33,Vendas,Supervisora,2020-10-01,Ativo,6200,8.7,2,9
+9,Felipe Gomes,39,TI,Dev Senior,2016-08-22,Ativo,8500,9.0,1,8
+10,Amanda Martins,27,RH,Analista,2021-06-30,Inativo,3200,6.8,6,5
+11,Thiago Barros,30,TI,Desenvolvedor,2022-01-15,Ativo,5800,7.2,4,7
+12,Patricia Fernandes,38,Financeiro,Coordenadora,2019-03-11,Ativo,7200,8.9,2,8
+13,Ricardo Teixeira,42,Vendas,Gerente,2017-07-19,Ativo,8800,8.3,3,7
+14,Larissa Rocha,25,RH,Assistente,2023-05-02,Ativo,2400,7.9,1,9
+15,Diego Freitas,36,TI,Dev Pleno,2020-02-28,Ativo,6500,8.1,2,8
+16,André Moura,34,Vendas,Executivo,2021-04-12,Ativo,5200,7.4,3,7
+17,Camila Duarte,29,RH,Analista,2022-06-18,Ativo,3300,8.4,2,8
+18,Roberto Nascimento,41,Financeiro,Gerente,2016-09-03,Ativo,9100,9.1,1,9
+19,Isabela Pires,27,Vendas,Executivo,2023-02-11,Ativo,4200,7.3,4,7
+20,Daniel Lopes,38,TI,Dev Senior,2018-12-20,Ativo,8700,8.8,2,8
+21,Renata Batista,32,RH,Analista,2021-08-09,Inativo,3400,6.9,5,6
+22,Paulo Araujo,45,Financeiro,Diretor,2015-03-14,Ativo,12000,9.5,1,9
+23,Carolina Farias,28,Vendas,Assistente,2022-10-01,Ativo,2800,7.0,3,7
+24,Marcelo Tavares,37,TI,Dev Pleno,2019-11-23,Ativo,6600,8.2,2,8
+25,Vanessa Monteiro,31,RH,Coordenadora,2020-07-30,Ativo,5400,8.6,2,9
+26,Henrique Cardoso,40,Financeiro,Analista,2018-05-17,Ativo,5900,7.7,3,7
+27,Julio Cesar Pinto,33,TI,Desenvolvedor,2021-09-01,Ativo,6100,7.9,3,8
+28,Sabrina Melo,36,Vendas,Supervisora,2019-06-12,Ativo,6300,8.2,2,8
+29,Igor Cunha,28,RH,Assistente,2022-11-22,Ativo,2600,7.5,3,7
+30,Adriana Leite,44,Financeiro,Gerente,2017-04-05,Ativo,9500,9.0,1,9
+31,Fernando Coelho,39,TI,Dev Senior,2018-02-18,Ativo,8200,8.7,2,8
+32,Paula Rezende,27,Vendas,Executiva,2023-01-10,Ativo,4100,7.2,4,7
+33,Rodrigo Vieira,35,RH,Analista,2020-08-14,Ativo,3600,8.3,2,8
+34,Aline Borges,41,Financeiro,Coordenadora,2016-06-25,Ativo,7800,8.8,2,9
+35,Matheus Rezende,30,TI,Suporte,2022-03-19,Ativo,3000,6.9,6,6
+36,Priscila Queiroz,38,Vendas,Gerente,2019-09-30,Ativo,8700,8.5,3,8
+37,Victor Siqueira,29,RH,Analista,2021-12-01,Ativo,3400,7.8,2,7
+38,Cristiane Azevedo,46,Financeiro,Diretora,2014-11-11,Ativo,13000,9.6,1,9
+39,Gustavo Peixoto,34,TI,Dev Pleno,2020-05-06,Ativo,6700,8.0,2,8
+40,Leticia Moraes,31,Vendas,Executiva,2021-07-23,Inativo,4800,6.8,5,6
+41,Danilo Freire,28,RH,Assistente,2023-03-15,Ativo,2500,7.6,2,8
+42,Simone Braga,37,Financeiro,Analista,2018-10-09,Ativo,6000,7.9,3,7
+43,Leonardo Pacheco,33,TI,Desenvolvedor,2021-01-27,Ativo,6200,8.1,2,8
+44,Tatiane Neves,45,Vendas,Gerente,2016-03-17,Ativo,9000,8.9,2,9
+45,Ramon Guedes,26,RH,Assistente,2022-08-05,Ativo,2400,7.4,3,7
+46,Claudia Viana,39,Financeiro,Coordenadora,2017-12-12,Ativo,7500,8.6,2,8
+47,Eduardo Falcao,32,TI,Dev Pleno,2020-09-09,Ativo,6800,8.2,2,8
+48,Natalia Moreira,29,Vendas,Executiva,2022-02-02,Ativo,4300,7.3,4,7
+49,Alexandre Lemos,36,RH,Analista,2019-01-21,Ativo,3700,8.0,2,8
+50,Monica Correia,42,Financeiro,Gerente,2015-05-30,Ativo,9800,9.1,1,9
+51,Bruna Paiva,34,TI,Dev Senior,2018-07-07,Ativo,8400,8.7,2,8
+52,Caio Fonseca,30,Vendas,Supervisor,2021-04-18,Ativo,6100,7.9,3,7
+53,Elisa Campos,27,RH,Assistente,2023-06-01,Ativo,2600,7.5,2,8
+54,Otavio Nogueira,41,Financeiro,Diretor,2014-02-14,Ativo,12500,9.4,1,9
+55,Renan Vasconcelos,35,TI,Desenvolvedor,2020-11-11,Ativo,6000,7.8,3,7
+56,Daniela Guimaraes,38,Vendas,Gerente,2017-08-08,Ativo,8900,8.6,2,8
+57,Victor Hugo Alves,29,RH,Analista,2021-10-10,Ativo,3500,8.2,2,8
+58,Sergio Brito,44,Financeiro,Coordenador,2016-01-19,Ativo,7700,8.9,2,9
+59,Leandro Macedo,31,TI,Suporte,2022-05-05,Ativo,3100,6.7,5,6
+60,Ana Paula Cunha,33,Vendas,Executiva,2021-12-22,Ativo,4500,7.5,3,7
+61,Joice Andrade,28,RH,Assistente,2023-04-04,Ativo,2500,7.8,2,8
+62,Marcelo Duarte,39,Financeiro,Analista,2018-03-03,Ativo,6100,8.0,3,7
+63,Fabio Torres,36,TI,Dev Pleno,2019-06-06,Ativo,6700,8.3,2,8
+64,Luciana Barros,41,Vendas,Gerente,2017-09-09,Ativo,9100,8.8,2,9
+65,Diego Ramos,27,RH,Analista,2022-07-07,Ativo,3300,7.6,3,7
+66,Alberto Freitas,45,Financeiro,Diretor,2015-12-12,Ativo,12800,9.5,1,9
+67,Jean Carvalho,32,TI,Desenvolvedor,2020-10-10,Ativo,6200,7.9,2,8
+68,Carla Menezes,34,Vendas,Supervisora,2019-02-02,Ativo,6400,8.1,2,8
+69,Rafaela Teodoro,29,RH,Assistente,2023-01-01,Ativo,2600,7.4,2,7
+70,Paulo Sergio Lopes,40,Financeiro,Gerente,2016-06-06,Ativo,9400,9.0,1,9
+71,Thiago Azevedo,37,TI,Dev Senior,2018-08-08,Ativo,8600,8.6,2,8
+72,Vanessa Nunes,30,Vendas,Executiva,2022-03-03,Ativo,4400,7.3,3,7
+73,Brenda Cavalcante,28,RH,Assistente,2023-02-02,Ativo,2500,7.7,2,8
+74,Robson Duarte,42,Financeiro,Coordenador,2017-07-07,Ativo,7800,8.8,2,9
+75,Henrique Lopes,35,TI,Dev Pleno,2019-09-09,Ativo,6800,8.2,2,8
+76,Jessica Teles,33,Vendas,Executiva,2021-05-05,Ativo,4600,7.6,3,7
+77,Anderson Moura,31,RH,Analista,2020-04-04,Ativo,3600,8.1,2,8
+78,Lucia Batista,44,Financeiro,Gerente,2016-02-02,Ativo,9700,9.2,1,9
+79,Felipe Cunha,38,TI,Dev Senior,2018-11-11,Ativo,8500,8.7,2,8
+80,Paula Azevedo,29,Vendas,Executiva,2022-06-06,Ativo,4200,7.4,3,7
+81,Renato Borges,27,RH,Assistente,2023-03-03,Ativo,2500,7.5,2,8
+82,Claudio Mendes,41,Financeiro,Diretor,2015-01-01,Ativo,13000,9.6,1,9
+83,Gustavo Nascimento,34,TI,Desenvolvedor,2021-08-08,Ativo,6100,7.9,2,8
+84,Marcia Pacheco,36,Vendas,Supervisora,2019-03-03,Ativo,6500,8.3,2,8
+85,Rodrigo Matos,30,RH,Analista,2020-09-09,Ativo,3500,8.0,2,8
+86,Sandra Ribeiro,43,Financeiro,Coordenadora,2017-04-04,Ativo,7900,8.9,2,9
+87,Diego Tavares,35,TI,Dev Pleno,2019-10-10,Ativo,6900,8.4,2,8
+88,Aline Peixoto,32,Vendas,Executiva,2021-06-06,Ativo,4700,7.7,3,7
+89,Camila Monteiro,28,RH,Assistente,2023-05-05,Ativo,2600,7.6,2,8
+90,Ricardo Barros,45,Financeiro,Diretor,2015-08-08,Ativo,12900,9.5,1,9
+91,Leonardo Cunha,37,TI,Dev Senior,2018-01-01,Ativo,8700,8.8,2,8
+92,Juliana Nogueira,31,Vendas,Executiva,2022-04-04,Ativo,4300,7.3,3,7
+93,Paulo Henrique Dias,29,RH,Analista,2021-11-11,Ativo,3400,8.2,2,8
+94,Fernanda Rocha,42,Financeiro,Gerente,2016-03-03,Ativo,9600,9.1,1,9
+95,Igor Martins,34,TI,Desenvolvedor,2020-12-12,Ativo,6200,7.8,2,8
+96,Patricia Alves,36,Vendas,Supervisora,2019-07-07,Ativo,6400,8.2,2,8
+97,Bruno Freitas,30,RH,Assistente,2022-02-02,Ativo,2600,7.5,3,7
+98,Carolina Lopes,41,Financeiro,Coordenadora,2017-06-06,Ativo,7800,8.7,2,9
+99,Matheus Barros,35,TI,Dev Pleno,2019-05-05,Ativo,6700,8.3,2,8
+100,Amanda Duarte,33,Vendas,Executiva,2021-09-09,Ativo,4500,7.6,3,7
